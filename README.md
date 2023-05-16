@@ -1,5 +1,6 @@
-# Change-Java-on-Ubuntu-that-cant-connect-in-server
+# Change-Java-on-Ubuntu-that-cant-connect-internet-in-server
 
+#Open bashrc
 ```
 nano ~/.bashrc
 ```
